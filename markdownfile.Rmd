@@ -1,0 +1,14 @@
+---
+title: "this_is_a_markdown_file"
+author: "fer"
+date: "11/5/2020"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+## This is an R Markdown document.
